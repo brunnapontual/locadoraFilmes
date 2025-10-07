@@ -73,7 +73,7 @@ public class Conta {
         this.saldoDevedor = saldoDevedor;
     }
 
-    public Locacao[] getHistoricoLocacao() {
+    public Locacao[] getHistoricoLocacao() {//locarfilmes
         return historicoLocacao;
     }
 }
